@@ -79,7 +79,7 @@ This workshop assumes that you're familiar with dbt. At a minimun you should kno
 4. Run `dbt deps` to install dependencies.
 
 5. Confirm your setup:  
-   1. Navigate to the IDE by clicking on the `Develop` tab in the upper right-hand corner
+   1. Navigate to the IDE by clicking on the `Develop` tab in the upper left-hand corner
    2. Try running the following commands:
      ```bash
      $ dbt run
